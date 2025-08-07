@@ -171,7 +171,7 @@ newNum = Number.MAX_VALUE ;      //JavaScript সাপোটেট সর্ব
 console.log(newNum);
 newNum = Number.MAX_SAFE_INTEGER;
 console.log(newNum);
-newNum = Number.MIN_VALUE;      //JavaScript সাপোটেট সর্বচ্চ সংখ্যা MIN_VALUE//
+newNum = Number.MIN_VALUE;      
 console.log(newNum);
 newNum = Number.MIN_SAFE_INTEGER;
 console.log(newNum);
